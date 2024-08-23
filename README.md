@@ -11,7 +11,7 @@ ultimate_jumping_player:
   is_enabled: true
   debug: false
   # Remove stamina for player jump please put f at the end
-  remove_stamina: 0.150000006
+  remove_stamina: 0.15f
   # Hint for player jump
   message_hint: '<b><size=22s>please don''t jump</size></b>'
   # Duration Hint
