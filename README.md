@@ -13,7 +13,7 @@ ultimate_jumping_player:
   # Remove stamina for player jump please put f at the end
   remove_stamina: 0.15f
   # Hint for player jump
-  message_hint: '<b><size=22s>please don''t jump</size></b>'
+  message_hint: '<b><size=22>please don''t jump</size></b>'
   # Duration Hint
   duration_hint: 5
 ```
