@@ -6,7 +6,7 @@ public class Plugin : Plugin<Config>
 {
     public override string Author => "RomzyyTV";
     public override string Name => "Ultimate-Jumping-Player";
-    public override Version Version => new Version(1, 0, 1);
+    public override Version Version => new Version(1, 1, 0);
     public override Version RequiredExiledVersion { get; } = new(8, 12, 2);
     public static Plugin Singleton;
     public static EventHandlers Handlers;
